@@ -318,6 +318,7 @@ Applications with support of IPTV streams.
 - [Free-TV/IPTV](https://github.com/Free-TV/IPTV) - M3U playlist for free TV channels around the World.
 - [FreeTV](https://freetv.fun/) - Stream global TV channels instantly without registration.
 - [EBK IPTV](https://ebkiptv.live/) - Watch online with pre-defined lists, share custom lists, add custom URLs, channel/country search, and PWA support.
+- [Free-TV IPTV](https://freetv.mokdo.click/) - More than 8,000 worldwide channels sorted by country.
 
 ## Channel Datasets
 
